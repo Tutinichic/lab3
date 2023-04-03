@@ -16,4 +16,4 @@ COPY --from=builder /app/build/fizzbuzz /
 
 COPY --from=builder /app/templates /templates
 
-CMD ["./build/fizzbuzz", "serve", "--port=8080"]
+CMD ["/fizzbuzz", "serve", "--port=8080"]
