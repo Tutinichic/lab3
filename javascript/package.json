@@ -1,0 +1,23 @@
+{
+  "name": "javascript",
+  "version": "1.0.0",
+  "description": "my js file",
+  "main": "myJS.js",
+  "scripts": {
+    "start": "node myJS.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tutinichic/lab3.git"
+  },
+  "author": "me",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tutinichic/lab3/issues"
+  },
+  "homepage": "https://github.com/Tutinichic/lab3#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
