@@ -1,7 +1,7 @@
-
+\
 This is a basic Nodejs application 
-
-How to run?
+/
+## How to run?
 1. Install Node.js.
 2. Install Docker
 3. Clone
